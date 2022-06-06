@@ -9,7 +9,7 @@
 **\.NET\obj\Debug\net6.0\**
 **\.NET\obj\Release\net6.0\**
 obj/
-
+*.sentinel
 
 
 
