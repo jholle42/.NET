@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RvIsbDCjrXGDglRDWjnV/JS6k3RXR/qNoEszSkk9WTcmrlvAkcnOYcxdXVTfoqwVWm8qtw9WI58lg2Dhzg3/rQ==",
+  "dgSpecHash": "TIcPhjb5hWF6x9wLmAite39WR960+XN1YRwhi+Y9+j4pfZ4MxQBmnS1MWvAymi79BGNe+W1Fa/1tJtNW+oLz2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj",
+  "projectFilePath": "C:\\Users\\Jake\\source\\repos\\.NET\\jakeApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

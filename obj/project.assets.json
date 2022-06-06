@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\.NET\\jakeApp.csproj",
       "projectName": "jakeApp",
-      "projectPath": "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj",
+      "projectPath": "C:\\Users\\Jake\\source\\repos\\.NET\\jakeApp.csproj",
       "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake\\github\\test\\.NET\\obj\\",
+      "outputPath": "C:\\Users\\Jake\\source\\repos\\.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

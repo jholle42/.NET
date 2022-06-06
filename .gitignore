@@ -3,6 +3,17 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+**\.NET\bin\Debug\**
+**\.NET\.vs\**
+**\.NET\obj\**
+**\.NET\obj\Debug\net6.0\**
+**\.NET\obj\Release\net6.0\**
+obj/
+obj\*.sentinel
+**\obj\staticwebassets.pack.sentinel
+
+
+
 # User-specific files
 *.rsuser
 *.suo
