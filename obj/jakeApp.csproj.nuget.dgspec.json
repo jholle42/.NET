@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\jakeApp\\jakeApp.csproj": {}
+    "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\jakeApp\\jakeApp.csproj": {
+    "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\jakeApp\\jakeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj",
         "projectName": "jakeApp",
-        "projectPath": "C:\\Users\\Jake\\jakeApp\\jakeApp.csproj",
+        "projectPath": "C:\\Users\\Jake\\github\\test\\.NET\\jakeApp.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\jakeApp\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\github\\test\\.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config"
