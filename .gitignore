@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+C:\Users\Jake\source\repos\.NET\bin\Debug
+C:\Users\Jake\source\repos\.NET\.vs
+C:\Users\Jake\source\repos\.NET\obj
+
+
+
+
+
 # User-specific files
 *.rsuser
 *.suo
