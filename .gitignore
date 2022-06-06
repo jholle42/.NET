@@ -6,6 +6,9 @@
 C:\Users\Jake\source\repos\.NET\bin\Debug
 C:\Users\Jake\source\repos\.NET\.vs
 C:\Users\Jake\source\repos\.NET\obj
+C:\Users\Jake\source\repos\.NET\obj\Debug\net6.0
+C:\Users\Jake\source\repos\.NET\obj\Release\net6.0
+
 *.sentinel
 
 
