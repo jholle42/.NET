@@ -10,7 +10,7 @@
 **\.NET\obj\Release\net6.0\**
 obj/
 obj\*.sentinel
-
+**\obj\staticwebassets.pack.sentinel
 
 
 
